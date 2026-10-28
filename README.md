@@ -4,7 +4,7 @@
 # Deep Q-Network for Atari Breakout
 
 <p align="center">
-  <img src="assets/breakout_demo.gif" alt="DQN agent playing Atari Breakout" width="600">
+  <img src="results/breakout_demo.gif" alt="DQN agent playing Atari Breakout" width="600">
 </p>
 
 ## Overview
@@ -190,6 +190,5 @@ The recorded configuration and training logs provide a basis for comparing train
 
 For meaningful comparisons, keep the environment configuration and hyperparameters consistent and record any changes between experiments.
 
-## Acknowledgements
-
-This project uses PyTorch for deep learning and Gymnasium with the Arcade Learning Environment for Atari game simulation.
+## Note
+ChatGPT was used as a supporting tool during the development of this project, mainly for coding assistance, debugging, documentation, and formatting. The implementation, testing, and integration of the project were carried out by the author.
