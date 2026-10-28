@@ -48,7 +48,8 @@ Multiple Breakout instances run concurrently to increase the number of environme
 │   ├── test_dqn.py         # DQN-related tests
 │   ├── test.py             # Additional tests or validation
 │   └── train.py            # Main training procedure
-│
+│   └── breakout_demo.gif   # Gameplay demonstration
+
 ├── results/
 │   ├── *.csv               # Training logs and episode statistics
 │   ├── *.json              # Training configuration and parameters
@@ -57,9 +58,6 @@ Multiple Breakout instances run concurrently to increase the number of environme
 ├── models/
 │   ├── *.pth               # Trained model weights and checkpoints
 │   └── ...
-│
-├── assets/
-│   └── breakout_demo.gif   # Gameplay demonstration
 │
 └── README.md
 ```
